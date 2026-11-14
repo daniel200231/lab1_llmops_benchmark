@@ -1,0 +1,12 @@
+.venv/
+ollama_data/
+lab1-llmops-benchmark/
+__pycache__/
+/python
+/type
+extraer.py
+extraer4.py
+ver_respuestas.py
+pruebas_q4.txt
+prueba_4.txt
+resumen_respuestas.txt
